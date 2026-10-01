@@ -1,0 +1,26 @@
+{"_e":"root:init","_t":1790874261957,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1790874261975,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790874262007,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790874266183,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790874272455,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790874276237,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790874296579,"atlas":false,"workers":13,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790874386578,"id":"4","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1790874386579,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790874386694,"id":"4","total":1,"ms":115.1441}
+{"_e":"metro:bundling:started","_t":1790874404266,"id":"9","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1790874404266,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790874404322,"id":"9","total":1,"ms":55.394}
+{"_e":"metro:client_log","_t":1790874412124,"level":"error","data":["adicionarFavorito:","Erro 404 : falha ao adicionar favorito"]}
+{"_e":"metro:client_log","_t":1790874446130,"level":"error","data":["adicionarFavorito:","Erro 404 : falha ao adicionar favorito"]}
+{"_e":"metro:client_log","_t":1790874503576,"level":"error","data":["adicionarFavorito:","Erro 404 : falha ao adicionar favorito"]}
+{"_e":"metro:client_log","_t":1790874545125,"level":"error","data":["adicionarFavorito:","Erro 404 : falha ao adicionar favorito"]}
+{"_e":"metro:client_log","_t":1790874587352,"level":"error","data":["adicionarFavorito:","Erro 404 : falha ao adicionar favorito"]}
+{"_e":"metro:client_log","_t":1790874667596,"level":"error","data":["adicionarFavorito:","Erro interno simulado — veja SIMULAR_ERROS em config.js"]}
+{"_e":"root:init","_t":1790874947840,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1790874947856,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790874947882,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790874951620,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790874957043,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790874960700,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790874980040,"atlas":false,"workers":13,"host":"::","port":8081}
